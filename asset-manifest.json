@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ravenous/static/css/main.d767020e.chunk.css",
+    "main.js": "/Ravenous/static/js/main.3d9c255f.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.3d9c255f.chunk.js.map",
+    "runtime-main.js": "/Ravenous/static/js/runtime-main.6050598d.js",
+    "runtime-main.js.map": "/Ravenous/static/js/runtime-main.6050598d.js.map",
+    "static/js/2.9e2eaa0c.chunk.js": "/Ravenous/static/js/2.9e2eaa0c.chunk.js",
+    "static/js/2.9e2eaa0c.chunk.js.map": "/Ravenous/static/js/2.9e2eaa0c.chunk.js.map",
+    "static/js/3.b8f7e5c4.chunk.js": "/Ravenous/static/js/3.b8f7e5c4.chunk.js",
+    "static/js/3.b8f7e5c4.chunk.js.map": "/Ravenous/static/js/3.b8f7e5c4.chunk.js.map",
+    "index.html": "/Ravenous/index.html",
+    "static/css/main.d767020e.chunk.css.map": "/Ravenous/static/css/main.d767020e.chunk.css.map",
+    "static/js/2.9e2eaa0c.chunk.js.LICENSE.txt": "/Ravenous/static/js/2.9e2eaa0c.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Ravenous/static/media/background_search_mobile.a6f8ee50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6050598d.js",
+    "static/js/2.9e2eaa0c.chunk.js",
+    "static/css/main.d767020e.chunk.css",
+    "static/js/main.3d9c255f.chunk.js"
+  ]
+}
